@@ -1,0 +1,43 @@
+.sec1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 5vw;
+  //   border: solid;
+
+  div {
+    display: flex;
+
+    p {
+      font-weight: bold;
+      font-size: 32px;
+    }
+
+    figcaption {
+      display: flex;
+      align-items: center;
+      color: rgb(12, 136, 12);
+      font-size: 15px;
+      margin-top: 5px;
+    }
+  }
+}
+
+.logo {
+  width: 100px;
+  margin-right: 10px;
+}
+
+span {
+  padding: 8px;
+  width: 70px;
+  display: flex;
+  font-weight: bold;
+  border-radius: 17px;
+  justify-content: space-evenly;
+  border: solid 2px gainsboro;
+
+  .icon {
+    color: rgb(226, 188, 18);
+  }
+}

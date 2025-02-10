@@ -1,0 +1,112 @@
+[
+  {
+    "nome": "Smash Clássico",
+    "carne": "Angus",
+    "hamburguer": "Smash de 140g",
+    "preco": 22.9,
+    "disponivel": true,
+    "descricao": "Pão brioche, smash angus, queijo cheddar, cebola caramelizada e molho especial.",
+    "promocao": false,
+    "avaliacao": 4.8,
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/05/shutterstock_1489640750-1.jpg"
+  },
+  {
+    "nome": "Bacon Lovers",
+    "carne": "Angus",
+    "hamburguer": "Smash duplo de 140g",
+    "preco": 27.9,
+    "disponivel": false,
+    "descricao": "Pão australiano, smash duplo, cheddar, bacon crocante e maionese da casa.",
+    "promocao": true,
+    "avaliacao": 4.9,
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/05/shutterstock_1489640750-1.jpg"
+  },
+  {
+    "nome": "Cheddar Supreme",
+    "carne": "Blend da casa",
+    "hamburguer": "Smash de 160g",
+    "preco": 25.5,
+    "disponivel": true,
+    "descricao": "Pão de batata, carne suculenta, cheddar cremoso e cebola crispy.",
+    "promocao": false,
+    "avaliacao": 4.7,
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/05/shutterstock_1489640750-1.jpg"
+  },
+  {
+    "nome": "Barbecue Smash",
+    "carne": "Angus",
+    "hamburguer": "Smash de 150g",
+    "preco": 24.9,
+    "disponivel": true,
+    "descricao": "Pão brioche, carne smash, queijo prato, bacon e molho barbecue artesanal.",
+    "promocao": true,
+    "avaliacao": 4.8,
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/05/shutterstock_1489640750-1.jpg"
+  },
+  {
+    "nome": "Veggie Delight",
+    "carne": "Vegetal",
+    "hamburguer": "Hambúrguer de grão de bico 150g",
+    "preco": 23.9,
+    "disponivel": true,
+    "descricao": "Pão integral, hambúrguer de grão de bico, queijo vegano, alface e maionese de ervas.",
+    "promocao": false,
+    "avaliacao": 4.6,
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/05/shutterstock_1489640750-1.jpg"
+  },
+  {
+    "nome": "Picanha Smash",
+    "carne": "Picanha",
+    "hamburguer": "Smash de 160g",
+    "preco": 29.9,
+    "disponivel": true,
+    "descricao": "Pão australiano, carne picanha smash, cheddar, cebola roxa e molho especial.",
+    "promocao": true,
+    "avaliacao": 4.9,
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/05/shutterstock_1489640750-1.jpg"
+  },
+  {
+    "nome": "Duplo Cheese Bacon",
+    "carne": "Blend da casa",
+    "hamburguer": "Smash duplo de 140g",
+    "preco": 28.5,
+    "disponivel": true,
+    "descricao": "Pão brioche, smash duplo, muito cheddar e bacon artesanal crocante.",
+    "promocao": false,
+    "avaliacao": 4.8,
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/05/shutterstock_1489640750-1.jpg"
+  },
+  {
+    "nome": "Spicy Smash",
+    "carne": "Angus",
+    "hamburguer": "Smash de 150g",
+    "preco": 24.5,
+    "disponivel": true,
+    "descricao": "Pão brioche, smash angus, queijo pepper jack, jalapeños e molho picante.",
+    "promocao": true,
+    "avaliacao": 4.7,
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/05/shutterstock_1489640750-1.jpg"
+  },
+  {
+    "nome": "Trufado Premium",
+    "carne": "Wagyu",
+    "hamburguer": "Smash de 180g",
+    "preco": 35.9,
+    "disponivel": false,
+    "descricao": "Pão de brioche premium, carne wagyu, queijo suíço e maionese trufada.",
+    "promocao": false,
+    "avaliacao": 5.0,
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/05/shutterstock_1489640750-1.jpg"
+  },
+  {
+    "nome": "Chicken Smash",
+    "carne": "Frango empanado",
+    "hamburguer": "Peito de frango empanado 150g",
+    "preco": 21.9,
+    "disponivel": true,
+    "descricao": "Pão brioche, filé de frango crocante, alface americana, cheddar e molho especial.",
+    "promocao": false,
+    "avaliacao": 4.7,
+    "imagem": "https://www.minhareceita.com.br/app/uploads/2021/05/shutterstock_1489640750-1.jpg"
+  }
+]

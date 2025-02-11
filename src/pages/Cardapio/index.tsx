@@ -3,7 +3,7 @@ import Background from "../../Components/Background";
 import Logo from "../../assets/logo.png";
 import { CiStopwatch } from "react-icons/ci";
 import { FaStar } from "react-icons/fa";
-import { AiFillCheckCircle, AiFillCloseCircle } from "react-icons/ai";
+// import { AiFillCheckCircle, AiFillCloseCircle } from "react-icons/ai";
 
 import data from "../../data/data.json";
 
@@ -42,28 +42,16 @@ export default function index() {
       </section>
       <Link to="/"> voltar</Link>
 
-      <Card_burguer />
-
       {data.map((e) => (
         <div className="burgue">
-          <img src={e.imagem} alt="teste" />
-          <h2>{e.nome}</h2>
-          <p>{e.descricao}</p>
-          <strong>{e.preco}</strong>
-          <p>{e.avaliacao}</p>
-          <p
-            style={e.disponivel == true ? { color: "green" } : { color: "red" }}
-          >
-            {e.disponivel == true ? (
-              <strong>
-                Disponível <AiFillCheckCircle />
-              </strong>
-            ) : (
-              <strong>
-                Indisponível <AiFillCloseCircle />
-              </strong>
-            )}
-          </p>
+          <Card_burguer
+            nome={e.nome}
+            descricao={e.descricao}
+            imagem={e.imagem}
+            avaliacao={e.avaliacao}
+            disponivel={e.disponivel}
+            preco={e.preco}
+          />
         </div>
       ))}
     </>

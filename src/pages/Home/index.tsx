@@ -1,10 +1,10 @@
 import "./style.scss";
-import Background from "../../Components/Background";
-import Card from "../../Components/Card";
 
-import Sacola from "../../assets/sacola.png";
-import Burgue from "../../assets/burgue.png";
+import Card from "../../Components/Card";
 import Logo from "../../assets/logo.png";
+import Burgue from "../../assets/burgue.png";
+import Sacola from "../../assets/sacola.png";
+import Background from "../../Components/Background";
 
 export default function index() {
   return (

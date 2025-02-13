@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Cardapio from "../pages/Cardapio";
 import Home from "../pages/Home";
+import Cardapio from "../pages/Cardapio";
 
 export default function index() {
   return (

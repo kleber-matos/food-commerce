@@ -1,17 +1,15 @@
+import "./style.scss";
+
 import { Link } from "react-router-dom";
-import Background from "../../Components/Background";
-import Logo from "../../assets/logo.png";
-import { CiStopwatch } from "react-icons/ci";
 import { FaStar } from "react-icons/fa";
+import { CiStopwatch } from "react-icons/ci";
 // import { AiFillCheckCircle, AiFillCloseCircle } from "react-icons/ai";
 
 import data from "../../data/data.json";
-
-import Card_burguer from "../../Components/Card_burguer";
-
+import Logo from "../../assets/logo.png";
 import Barra from "../../Components/Barra";
-
-import "./style.scss";
+import Background from "../../Components/Background";
+import Card_burguer from "../../Components/Card_burguer";
 
 export default function index() {
   return (
